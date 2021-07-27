@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning AI
-- 📫 How to reach me: riddle925@gmai.com
+- 📫 How to reach me: riddle925@gmail.com
 <!--
 **riddle925/riddle925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
